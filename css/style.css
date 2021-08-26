@@ -1,0 +1,14 @@
+/*
+Esto es un comentario
+
+SELECTOR {
+    propiedad: valor;
+}
+
+
+*/
+
+* {
+   background-color: black;
+   color: white;
+}
