@@ -8,7 +8,31 @@ SELECTOR {
 
 */
 
+
 * {
    background-color: black;
    color: white;
+}
+
+a {
+    background-color: blue;
+}
+
+footer {
+    background-color: gray;
+}
+
+/* Lo usamos con class en los atributos de HTML*/
+.Botoncito {
+    background-color: red;
+}
+
+
+/**************************************************/
+/*             Aca van los ID                    */
+/**************************************************/
+
+/* Lo usamos con ID en los atributos de HTML*/
+#login001 {
+    background-color: blueviolet;
 }
